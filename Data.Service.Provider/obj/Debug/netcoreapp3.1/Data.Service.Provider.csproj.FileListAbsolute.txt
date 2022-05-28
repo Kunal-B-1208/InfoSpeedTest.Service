@@ -1,0 +1,13 @@
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\bin\Debug\netcoreapp3.1\Data.Service.Provider.deps.json
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\bin\Debug\netcoreapp3.1\Data.Service.Provider.dll
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\bin\Debug\netcoreapp3.1\Data.Service.Provider.pdb
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\bin\Debug\netcoreapp3.1\Common.Service.Provider.dll
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\bin\Debug\netcoreapp3.1\Common.Service.Provider.pdb
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.csproj.AssemblyReference.cache
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.AssemblyInfoInputs.cache
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.AssemblyInfo.cs
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.csproj.CoreCompileInputs.cache
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.csproj.CopyComplete
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.dll
+C:\Kunbhale\ERP\Projects\InfoSpeedTest\InfoSpeedTest\Data.Service.Provider\obj\Debug\netcoreapp3.1\Data.Service.Provider.pdb
